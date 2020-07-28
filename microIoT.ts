@@ -15,7 +15,7 @@
 
 const OBLOQ_MQTT_EASY_IOT_SERVER_CHINA = "iot.dfrobot.com.cn"
 const OBLOQ_MQTT_EASY_IOT_SERVER_GLOBAL = "mqtt.beebotte.com"
-const OBLOQ_MQTT_EASY_IOT_SERVER_EN = "iot.adafruit.com"
+const OBLOQ_MQTT_EASY_IOT_SERVER_EN = "io.adafruit.com"
 const microIoT_WEBHOOKS_URL = "maker.ifttt.com"
 const OBLOQ_MQTT_EASY_IOT_SERVER_TK = "api.thingspeak.com"
 const microIoT_Weather_URL = "api.dfrobot.top"
